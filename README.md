@@ -8,20 +8,17 @@
 
 ## About you, and me
 
-If you reading this - you're already awesome. period.
+- ⚡ If you reading this - you're already awesome.  
 
-Interested in SaaS, APIs, process integration, K8S, DevOps, python/nodejs/.net? Then here's your guy for connections of any kind 💙.  
+- 🌱 Interested in SaaS, APIs, process integration, K8S, DevOps, python/nodejs/.net? Then here's your guy for connections of any kind 💙.  
 
-Philosophy: modern development is just writing code quickly and learning up-to-date tools while they __are being born__.  
+- 😄 Philosophy: modern development is just writing code quickly, preferably without over-engineering and learning up-to-date tools while they __are being born__.  
 
-Show and document your journey, it will change lives of many people ✍️  
-
+- 🔭 Show and document your journey, it will change lives of many people.  
 
 ## Projects
 
-- All my pet projects in areas text,
-image conversion were migrated to a
-SaaS for usage in the launching **assisstent platform** for simplified digital workflows.
+- All my pet projects in areas text, image conversion were migrated to a full blown **SaaS** for usage in the launching **assisstent platform** for simplified digital workflows.
 
 
 ## Socials
