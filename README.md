@@ -26,24 +26,34 @@ SaaS for usage in the launching **assisstent platform** for simplified digital w
 
 ## Socials
 
-<a href="https://maxgrass.eu/pages/profile/twitter" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://maxgrass.eu/pages/profile/linkedin" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-</a>
-<!-- <a href="maxgrass.eu/pages/profile/blog" target="blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="maxgrass" />
-</a> -->
-<a href="https://maxgrass.eu/pages/profile/instagram" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://maxgrass.eu/pages/profile/stackoverflow" target="blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
-</a>
-<a href="https://maxgrass.eu/pages/profile/discord" target="blank">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-violet?style=for-the-badge&logo=discord&logoColor=white">
-</a>
+ <a href="https://amathron.com/pages/profile/twitter" target="blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+          alt="max_grass" />
+      </a>
+      <a href="https://amathron.com/pages/profile/linkedin" target="blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="maxgrass" />
+      </a>
+      <!-- <a href="amathron.com/pages/profile/blog" target="blank">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="maxgrass" />
+    </a> -->
+      <a href="https://amathron.com/pages/profile/instagram" target="blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+          alt="amathron.photography" />
+      </a>
+      <a href="https://amathron.com/pages/profile/stackoverflow" target="blank">
+        <img
+          src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+          alt="maxgrass" />
+      </a>
+      <a href="https://amathron.com/pages/profile/discord" target="blank">
+        <img alt="Discord"
+          src="https://img.shields.io/badge/Discord-violet?style=for-the-badge&logo=discord&logoColor=white">
+      </a>
+      <a href="https://amathron.com/pages/apps" target="blank">
+        <img alt="Discord"
+          src="https://img.shields.io/badge/⌨️%20MicroPortfolio-green?style=for-the-badge&logoColor=white">
+      </a>
 
 <br><br>
 
