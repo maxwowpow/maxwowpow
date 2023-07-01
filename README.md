@@ -21,7 +21,7 @@
 
 - All my pet projects in areas text,
 image conversion were migrated to a
-SaaS for usage in the launching **assisstent platform** for simplified digital workflows.
+SaaS for usage in the launching **assistant platform** for simplified digital workflows.
 
 
 ## Socials
