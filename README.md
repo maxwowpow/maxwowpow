@@ -10,7 +10,7 @@
 
 - ⚡ If you reading this - you're already awesome.  
 
-- 🌱 Interested in SaaS, APIs, PI (process integration), AI (SD/Chat), Datacenter Engineering (Kubernetes), DevOps, python/nodejs/.net? Then here's your guy for connections of any kind 💙.  
+- 🌱 Interested in SaaS/PaaS/IaaS, APIs, PI (process integration), AI (SD/Chat), Datacenter Engineering (Kubernetes), DevOps, python/nodejs/.net? Then here's your guy for connections of any kind 💙.  
 
 - 😄 Philosophy: modern development is just writing code quickly, preferably without over-engineering and learning up-to-date tools while they __are being born__.  
 
