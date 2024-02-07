@@ -1,14 +1,4 @@
 <!--suppress ALL -->
-<style>
-.a-big-icon {
-  font-size: 2em;
-  padding: 0.2em;
-}
-svg {
-  vertical-align: -0.15em;
-}
-</style>
-
 <h1 align="center">Hi there 👋, here's Max</h1>
 
 <p class="a-big-icon" align="center">
